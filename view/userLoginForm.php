@@ -8,17 +8,17 @@
 </head>
 <body>
 <nav class="navbar">
-        <h1>WELCOME TO Admin Login </h1>
+        <h1>WELCOME TO User Login </h1>
         <button class="home"><a href="../view/landingPage.php">Home</a></button>
-    </nav>
+        </nav>
     <br>
     <br>
     <br>
     <br>
     <form>
-    <center>Username: <input type="text"> <br></center>
+    <center> Username: <input type="text"> <br></center>
     <center> Password: <input type="password"> <br></center>
-    <center><input type="submit" value="Login"></center>
+    <center><input type="submit" value="Login"></center><button class="home">    
 </form>
     <footer class="footer">
         <p>&copy; 2024 All Rights Reserved by AZRAF FAHEEM</p>
