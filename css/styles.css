@@ -1,0 +1,41 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #faa30d;
+    border-color: #faa30d;
+    color: #fff;
+}
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
